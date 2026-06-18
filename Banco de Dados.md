@@ -127,6 +127,10 @@ Ao executar o programa, o objeto será armazenado no banco de dados e posteriorm
 Mariana
 ```
 
+## Aplicação Desenvolvida
+
+Foi criada uma aplicação Java simples que realiza a conexão com o ObjectDB, insere um objeto da classe Pessoa e posteriormente consulta os registros armazenados.
+
 ## Referências
 
 - https://www.objectdb.com
